@@ -5,5 +5,5 @@ WEBSITE TUGAS "PEMROGRAMAN BERBASIS WEB"
 <p>Program Studi : Sistem Informasi</p>
 <hr>
 Website ini dibuat dengan tujuan menyelesaikan tugas Pemrograman Berbasis Web oleh dosen pengampu Moch. Diki Widianto 
-
+<br>
 <i>P.S. Website ini dibuat hanya dengan kemampuan seadanya, harap dimaklum... </i>
